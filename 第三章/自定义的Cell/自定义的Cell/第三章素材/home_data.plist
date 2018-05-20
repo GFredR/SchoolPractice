@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>home5</key>
+	<array>
+		<string>discover_default@2x.png</string>
+		<string>爱奇艺晓松奇谈</string>
+		<string>昨天17:37</string>
+		<string>来自秒拍网页版</string>
+	</array>
+	<key>home4</key>
+	<array>
+		<string>discover_default@2x.png</string>
+		<string>刘Sir-财经首席研究员</string>
+		<string>昨天18: 30</string>
+		<string>来自360安全浏览器</string>
+	</array>
+	<key>home3</key>
+	<array>
+		<string>discover_default@2x.png</string>
+		<string>手游评定师</string>
+		<string>1小时前</string>
+		<string>来自微博weibo.com</string>
+	</array>
+	<key>home2</key>
+	<array>
+		<string>discover_default@2x.png</string>
+		<string>人民日报</string>
+		<string>昨天19:43</string>
+		<string>来自新媒体聚合平台</string>
+	</array>
+	<key>home1</key>
+	<array>
+		<string>discover_default@2x.png</string>
+		<string>时政放大镜</string>
+		<string>6小时前</string>
+		<string>来自秒拍网页版</string>
+	</array>
+</dict>
+</plist>

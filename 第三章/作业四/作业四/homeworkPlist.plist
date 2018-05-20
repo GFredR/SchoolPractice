@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<array>
+		<string>news.jpg</string>
+		<string>190评</string>
+		<string>阿里和国际反假联盟相爱相杀</string>
+	</array>
+	<key>1</key>
+	<array>
+		<string>news2.jpg</string>
+		<string>100评</string>
+		<string>航班延误背后的“秘密”</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>news5.jpg</string>
+		<string>1050评</string>
+		<string>慈善法：以法促进第一步</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>news4.jpg</string>
+		<string>50评</string>
+		<string>北大国家发展研究院：在朗润园读懂国家发展</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>news3.jpg</string>
+		<string>2000评</string>
+		<string>黄小厨：家乡的味道，就是母亲喊我回家吃饭</string>
+	</array>
+</dict>
+</plist>
